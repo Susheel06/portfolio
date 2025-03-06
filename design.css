@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+#hero {
+    background: #f4f4f4;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.project-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.skill-item {
+    background: #e7f3fe;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin: 5px;
+    display: inline-block;
+}
